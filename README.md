@@ -2,7 +2,7 @@
 - A young entrepreneur and a back-end developer from Malawi.
 - 👀 I’m interested in Back-end development, software engineering, Data Science and Virtual Reality
 - 🌱 Currently exploring Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ Talk to me about Back-end development and Data Science
 - 📫 How to reach me: kelvinmponda47@gmail.com
 - ⚡ Soccer and Tech enthusiast
 
